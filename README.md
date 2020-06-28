@@ -10,10 +10,13 @@ Blurring number plate of all images and video.
   * Numpy
   
 # Image or video
-[Image 1](https://github.com/ranjitkathiriya/Blurring-Number-Plate/blob/master/bin/download.png)
+<img src="./bin/download.png" title="working" alt="working" width="500" height="600">
+
 
 # Selecting Licence Numbers
-[Image 2](https://github.com/ranjitkathiriya/Blurring-Number-Plate/blob/master/bin/download_1.png)
+<img src="./bin/download_1.png" title="working" alt="working" width="500" height="600">
+
 
 # Output
-[Image 2](https://github.com/ranjitkathiriya/Blurring-Number-Plate/blob/master/bin/download_3.png)
+<img src="./bin/download_3.png" title="working" alt="working" width="500" height="600">
+
